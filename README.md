@@ -1,7 +1,7 @@
 # Smart Yoga Mat
 
 ## Project Overview
-The Smart Yoga Mat is a Flutter-based mobile application that connects to and controls a smart yoga mat device via Bluetooth. The app provides features for yoga practice, meditation, and fitness tracking.
+The Smart Yoga Mat is a Flutter-based mobile application prototype that connects to and controls a smart yoga mat device via Bluetooth. The app provides features for yoga practice, meditation, and fitness tracking.
 
 ## Technologies Used
 
@@ -70,12 +70,6 @@ The Smart Yoga Mat is a Flutter-based mobile application that connects to and co
 - Secure token management
 - Session handling
 - Protected routes
-
-## Challenges & Solutions
-
-Audio Playback
-   Challenge: I wanted to avoid local storage of audios and firebase has paid storage
-   Solution: Used supabase storage for audios and used the url to call the audios
 
 
 
